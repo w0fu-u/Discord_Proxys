@@ -1,3 +1,1 @@
 python main.py
-
-PAUSE
